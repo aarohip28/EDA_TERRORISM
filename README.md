@@ -1,4 +1,4 @@
-# Exploratory Data Analysis – Terrorism (Intermediate Level)
+# Exploratory Data Analysis – Terrorism
 
 ## Project Overview  
 This project involves performing **Exploratory Data Analysis (EDA)** on the **Global Terrorism Dataset** to identify terrorism hot zones and derive meaningful security insights.  
@@ -30,7 +30,6 @@ You can use any tool of your choice, including:
    - Analyze **attack types, targets, and weapons used**.  
    - Identify **patterns over time**.  
 3. Visualize the data using **charts, graphs, and maps**.  
-4. **Create a storyboard** with your findings.  
-5. Record a video explaining your analysis and insights.  
+  
 
 
